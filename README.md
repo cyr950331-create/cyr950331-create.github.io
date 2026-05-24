@@ -223,7 +223,7 @@
     <div>© 2026 官方名称 版权所有 保留一切权利</div>
     <div style="margin-top:8px;">
       <a href="privacy.html">隐私政策</a> |
-      <a href="agreement.html">用户协议</a> |
+      <a href="agreement.html">用户协议 LJY</a> |
       <a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备XXXXXXX号</a>
     </div>
   </div>
