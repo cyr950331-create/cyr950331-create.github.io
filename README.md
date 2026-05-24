@@ -138,7 +138,6 @@
 
   <!-- 头部 -->
   <div class="header">
-    <img class="logo" src="icon/icon.ico" alt="Logo">
     <h1>设计信息学分析系统</h1>
     <p>官方正版 · 无捆绑无广告 · 安全绿色 · 电脑端适配</p>
   </div>
